@@ -16,20 +16,20 @@
     {
       "id": "136228393455680@lid",
       "msg": 0,
-      "cmd": 2,
+      "cmd": 3,
       "figu": 0,
       "pushname": "terry----🩸.",
       "firstSeen": "2026-05-22T23:22:35.730Z",
-      "lastActivity": "2026-05-22T23:34:21.329Z"
+      "lastActivity": "2026-05-23T16:23:59.720Z"
     },
     {
       "id": "256345961984000@lid",
-      "msg": 1,
-      "cmd": 43,
-      "figu": 0,
+      "msg": 2,
+      "cmd": 59,
+      "figu": 1,
       "pushname": "~ N.",
       "firstSeen": "2026-05-22T23:25:08.484Z",
-      "lastActivity": "2026-05-23T14:25:02.276Z"
+      "lastActivity": "2026-05-23T16:50:51.229Z"
     }
   ]
 }

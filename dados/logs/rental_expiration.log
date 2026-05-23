@@ -606,3 +606,14 @@
 [2026-05-23T12:03:03.573Z] RentalExpirationManager initialized successfully
 [2026-05-23T12:09:35.439Z] RentalExpirationManager initialized successfully
 [2026-05-23T12:09:35.438Z] Scheduler started with interval: 0 */6 * * *
+[2026-05-23T15:57:19.474Z] Scheduler started with interval: 0 */6 * * *
+[2026-05-23T15:57:19.476Z] RentalExpirationManager initialized successfully
+[2026-05-23T16:19:54.008Z] Scheduler started with interval: 0 */6 * * *
+[2026-05-23T16:19:54.009Z] RentalExpirationManager initialized successfully
+[2026-05-23T16:23:54.708Z] Scheduler started with interval: 0 */6 * * *
+[2026-05-23T16:23:54.711Z] RentalExpirationManager initialized successfully
+[2026-05-23T16:25:51.697Z] RentalExpirationManager initialized successfully
+[2026-05-23T16:39:44.695Z] RentalExpirationManager initialized successfully
+[2026-05-23T16:39:44.694Z] Scheduler started with interval: 0 */6 * * *
+[2026-05-23T16:41:23.800Z] Scheduler started with interval: 0 */6 * * *
+[2026-05-23T16:41:23.801Z] RentalExpirationManager initialized successfully

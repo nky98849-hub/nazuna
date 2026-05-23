@@ -14,6 +14,11 @@
       "alias": "s",
       "command": "sticker",
       "fixedParams": ""
+    },
+    {
+      "alias": "a",
+      "command": "grupo",
+      "fixedParams": "a"
     }
   ]
 }
