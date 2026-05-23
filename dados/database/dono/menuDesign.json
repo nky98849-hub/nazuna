@@ -1,9 +1,9 @@
 {
-  "header": "╭┈⊰ 🌸 『 *{botName}* 』\n┊Olá, {userName}!\n╰─┈┈┈┈┈◜❁◞┈┈┈┈┈─╯",
-  "menuTopBorder": "╭┈",
+  "header": "╔═══〔 {botName} 〕═══╗\n║ Player: {userName}\n║ Status: Online ⚡\n╚═══════════════════╝",
+  "menuTopBorder": "『 』",
   "bottomBorder": "╰─┈┈┈┈┈◜❁◞┈┈┈┈┈─╯",
-  "menuTitleIcon": "🍧ฺꕸ▸",
-  "menuItemIcon": "•.̇𖥨֗🍓⭟",
-  "separatorIcon": "❁",
+  "menuTitleIcon": "🎴",
+  "menuItemIcon": "☞",
+  "separatorIcon": "ᶻ 𝗓 𐰁",
   "middleBorder": "┊"
 }

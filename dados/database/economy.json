@@ -1,5 +1,78 @@
 {
-  "users": {},
+  "users": {
+    "53674860630194@lid": {
+      "wallet": 0,
+      "bank": 0,
+      "cooldowns": {},
+      "inventory": {},
+      "items": {},
+      "job": null,
+      "tools": {},
+      "materials": {},
+      "challenge": {
+        "expiresAt": 1779505199999,
+        "tasks": [
+          {
+            "type": "explore",
+            "target": 3,
+            "progress": 0
+          },
+          {
+            "type": "crimeSuccess",
+            "target": 5,
+            "progress": 0
+          },
+          {
+            "type": "mine",
+            "target": 4,
+            "progress": 0
+          }
+        ],
+        "reward": 686,
+        "claimed": false
+      },
+      "weeklyChallenge": null,
+      "monthlyChallenge": null,
+      "level": 1,
+      "exp": 0,
+      "prestige": 0,
+      "classe": null,
+      "clan": null,
+      "house": null,
+      "family": null,
+      "power": 100,
+      "hp": 100,
+      "maxHp": 100,
+      "mana": 50,
+      "maxMana": 50,
+      "stamina": 100,
+      "maxStamina": 100,
+      "strength": 10,
+      "defense": 10,
+      "agility": 10,
+      "intelligence": 10,
+      "luck": 10,
+      "attackBonus": 0,
+      "defenseBonus": 0,
+      "skills": {},
+      "properties": {},
+      "pets": [],
+      "lastPetBattle": 0,
+      "totalWork": 0,
+      "totalMine": 0,
+      "totalFish": 0,
+      "totalHunt": 0,
+      "totalExplore": 0,
+      "totalCrime": 0,
+      "battlesWon": 0,
+      "battlesLost": 0,
+      "lotteryTickets": 0,
+      "createdAt": 1779459980091,
+      "lastDaily": 0,
+      "lastWeekly": 0,
+      "lastMonthly": 0
+    }
+  },
   "shop": {
     "pickaxe_bronze": {
       "name": "Picareta de Bronze",
@@ -580,6 +653,127 @@
       "name": "Gerente",
       "min": 260,
       "max": 420
+    }
+  },
+  "market": [],
+  "marketCounter": 1,
+  "propertiesCatalog": {
+    "casa": {
+      "name": "Casa",
+      "price": 5000,
+      "upkeepPerDay": 50,
+      "incomeGoldPerDay": 80
+    },
+    "fazenda": {
+      "name": "Fazenda",
+      "price": 15000,
+      "upkeepPerDay": 150,
+      "incomeMaterialsPerDay": {
+        "pedra": 6,
+        "ferro": 1
+      }
+    },
+    "mina_privada": {
+      "name": "Mina Privada",
+      "price": 30000,
+      "upkeepPerDay": 400,
+      "incomeMaterialsPerDay": {
+        "pedra": 12,
+        "ferro": 3,
+        "ouro": 1
+      }
+    }
+  },
+  "clans": {},
+  "clanCounter": 1,
+  "lottery": {
+    "jackpot": 10000,
+    "lastDraw": 1779459446479,
+    "drawInterval": 86400000,
+    "ticketPrice": 100,
+    "winners": []
+  },
+  "cookingRecipes": {
+    "pao": {
+      "name": "🍞 Pão",
+      "requires": {
+        "trigo": 3
+      },
+      "gold": 10,
+      "sellPrice": 50,
+      "energy": 10
+    },
+    "sopa": {
+      "name": "🍲 Sopa",
+      "requires": {
+        "cenoura": 2,
+        "batata": 2
+      },
+      "gold": 15,
+      "sellPrice": 80,
+      "energy": 20
+    },
+    "salada": {
+      "name": "🥗 Salada",
+      "requires": {
+        "alface": 2,
+        "tomate": 2
+      },
+      "gold": 12,
+      "sellPrice": 60,
+      "energy": 15
+    },
+    "bolo": {
+      "name": "🍰 Bolo",
+      "requires": {
+        "trigo": 5,
+        "ovo": 3
+      },
+      "gold": 25,
+      "sellPrice": 120,
+      "energy": 30
+    },
+    "pizza": {
+      "name": "🍕 Pizza",
+      "requires": {
+        "trigo": 4,
+        "tomate": 3,
+        "queijo": 2
+      },
+      "gold": 35,
+      "sellPrice": 150,
+      "energy": 40
+    },
+    "hamburguer": {
+      "name": "🍔 Hambúrguer",
+      "requires": {
+        "carne": 2,
+        "trigo": 3,
+        "alface": 1
+      },
+      "gold": 40,
+      "sellPrice": 180,
+      "energy": 50
+    },
+    "sushi": {
+      "name": "🍣 Sushi",
+      "requires": {
+        "peixe": 4,
+        "arroz": 3
+      },
+      "gold": 50,
+      "sellPrice": 200,
+      "energy": 45
+    },
+    "macarrao": {
+      "name": "🍝 Macarrão",
+      "requires": {
+        "trigo": 3,
+        "tomate": 2
+      },
+      "gold": 20,
+      "sellPrice": 90,
+      "energy": 25
     }
   }
 }

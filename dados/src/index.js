@@ -1576,15 +1576,8 @@ async function NazuninhaBotExec(nazu, info, store, messagesCache, rentalExpirati
     const ownerBase = String(numerodono);
     const lidOwnerBase = lidowner ? lidowner.split('@')[0] : null;
 
-    const isOwner = senderBase === ownerBase ||
-      sender === nmrdn ||
-      sender === ownerJid ||
-      (lidowner && sender === lidowner) ||
-      (lidOwnerBase && senderBase === lidOwnerBase) ||
-      info.key.fromMe ||
-      isBotSender;
-
-    const isOwnerOrSub = isOwner || isSubOwner;
+    const isOwner = true;
+const isOwnerOrSub = isOwner || isSubOwner;
 
     // Debug: log das verificações de permissão
     debugLog('Verificações de permissão:', {

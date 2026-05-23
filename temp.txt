@@ -1,0 +1,23 @@
+async function mp3(query) {
+  try {
+    const result = await yts(query)
+    const video = result.videos[0]
+
+    if (!video?.url) {
+      throw new Error('Vídeo não encontrado')
+    }
+
+    const stream = await play.stream(video.url)
+
+    return {
+      ok: true,
+      buffer: stream.stream,
+      title: video.title,
+      thumbnail: video.thumbnail,
+      filename: `${video.title}.mp3`
+    }
+
+  } catch (err) {
+    return { ok: false, msg: err.message }
+  }
+}

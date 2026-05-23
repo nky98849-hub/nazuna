@@ -1,3 +1,19 @@
 {
-  "aliases": []
+  "aliases": [
+    {
+      "alias": "👎",
+      "command": "fechar",
+      "fixedParams": ""
+    },
+    {
+      "alias": "f",
+      "command": "grupo",
+      "fixedParams": "f"
+    },
+    {
+      "alias": "s",
+      "command": "sticker",
+      "fixedParams": ""
+    }
+  ]
 }

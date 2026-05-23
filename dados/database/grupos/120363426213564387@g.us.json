@@ -1,0 +1,35 @@
+{
+  "mark": {},
+  "createdAt": "2026-05-22T23:22:35.696Z",
+  "groupName": ".",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "136228393455680@lid",
+      "msg": 0,
+      "cmd": 2,
+      "figu": 0,
+      "pushname": "terry----🩸.",
+      "firstSeen": "2026-05-22T23:22:35.730Z",
+      "lastActivity": "2026-05-22T23:34:21.329Z"
+    },
+    {
+      "id": "256345961984000@lid",
+      "msg": 1,
+      "cmd": 43,
+      "figu": 0,
+      "pushname": "~ N.",
+      "firstSeen": "2026-05-22T23:25:08.484Z",
+      "lastActivity": "2026-05-23T14:25:02.276Z"
+    }
+  ]
+}

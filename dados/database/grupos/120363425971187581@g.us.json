@@ -1,0 +1,45 @@
+{
+  "mark": {},
+  "createdAt": "2026-05-12T19:59:06.247Z",
+  "groupName": "Amo a Flávia minha mulher maravilhosaaaaaaaaa gstz da poha",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "256345961984000@lid",
+      "msg": 42,
+      "cmd": 77,
+      "figu": 4,
+      "pushname": "~ t.",
+      "firstSeen": "2026-05-12T19:59:06.254Z",
+      "lastActivity": "2026-05-13T19:54:30.584Z"
+    },
+    {
+      "id": "91144239227131@lid",
+      "msg": 49,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": ".",
+      "firstSeen": "2026-05-12T21:13:21.086Z",
+      "lastActivity": "2026-05-12T21:26:11.968Z"
+    },
+    {
+      "id": "136228393455680@lid",
+      "msg": 2,
+      "cmd": 2,
+      "figu": 0,
+      "pushname": "ᝰt.",
+      "firstSeen": "2026-05-13T19:08:01.251Z",
+      "lastActivity": "2026-05-13T19:09:04.277Z"
+    }
+  ],
+  "modobrincadeira": true
+}

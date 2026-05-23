@@ -1,0 +1,45 @@
+{
+  "mark": {},
+  "createdAt": "2026-05-15T19:52:55.780Z",
+  "groupName": ".",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "256345961984000@lid",
+      "msg": 0,
+      "cmd": 5,
+      "figu": 0,
+      "pushname": "~ N.",
+      "firstSeen": "2026-05-15T19:52:55.790Z",
+      "lastActivity": "2026-05-21T11:12:41.042Z"
+    },
+    {
+      "id": "136228393455680@lid",
+      "msg": 42,
+      "cmd": 13,
+      "figu": 0,
+      "pushname": "todd",
+      "firstSeen": "2026-05-16T00:49:35.665Z",
+      "lastActivity": "2026-05-21T11:04:41.422Z"
+    },
+    {
+      "id": "236558879842506@lid",
+      "msg": 42,
+      "cmd": 4,
+      "figu": 0,
+      "pushname": "ℒ𝐨𝐥𝐨𝐡 🫀",
+      "firstSeen": "2026-05-16T00:52:12.283Z",
+      "lastActivity": "2026-05-17T12:52:12.970Z"
+    }
+  ],
+  "modobrincadeira": true
+}
