@@ -617,3 +617,5 @@
 [2026-05-23T16:39:44.694Z] Scheduler started with interval: 0 */6 * * *
 [2026-05-23T16:41:23.800Z] Scheduler started with interval: 0 */6 * * *
 [2026-05-23T16:41:23.801Z] RentalExpirationManager initialized successfully
+[2026-05-25T03:51:59.041Z] RentalExpirationManager initialized successfully
+[2026-05-25T03:51:59.039Z] Scheduler started with interval: 0 */6 * * *
